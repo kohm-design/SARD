@@ -1,0 +1,9 @@
+Search and Rescue Drone
+Senior Design 2019
+Subsystem: GUI Application
+Member: Matthew Kohn
+
+Week 8/26/19:
+Presemester Status:
+
+New Progress:
