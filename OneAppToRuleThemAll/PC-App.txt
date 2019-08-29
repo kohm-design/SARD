@@ -1,4 +1,0 @@
-SARD GUI APPLICATION SUBSYSTEM
-Member: Matthew Kohn
-
-More info to be added later

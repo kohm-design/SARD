@@ -1,0 +1,1 @@
+This Directory lists sthe various logs made by team memebers.
