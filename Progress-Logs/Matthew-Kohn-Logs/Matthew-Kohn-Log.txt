@@ -3,7 +3,19 @@ Senior Design 2019
 Subsystem: GUI Application
 Member: Matthew Kohn
 
-Week 8/26/19:
+Week 8/26/19-9/1/19:
 Presemester Status:
+Have rough skeleton of a GUI with buttons and a displayed map.
+Can take 2 corner points and generate a waypoint list.
+No drag support, or manual waypoint submission
+No Databases for images or waypoint manipulation
 
 New Progress:
+Started looking at MongoDB tutorials, and have rough idea of what Database should look like:
+Waypoints: Index, Lat, Lon, Altitude - subject to change (Waypoint
+Images: Index, Image Path, Lat, Lon, Timestamp - Subject to change
+
+
+Week 9/2/19-9/8/19:
+
+
