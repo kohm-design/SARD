@@ -1,0 +1,28 @@
+#include <SoftwareSerial.h>
+#include <PString.h>
+SoftwareSerial Xbee(2,3);
+void setup() {
+  Serial.begin(9600);
+  Xbee.begin(9600);
+}
+
+void loop() {
+  read_data(); // Reads data sended throw Xbee and writes to the serial port
+}
+
+// XBEE visualization commands : These functions read and write data from or to xbee or serial buffer
+//-------------------------------------------------------------------------------------------------------------
+void read_data(){                 // Reading data response from serial xbee
+byte data;
+while(Serial.available()==0){}
+while(Serial.available()>0){
+data=Serial.read();
+delay(10);                  // Waiting to receive new data
+write_data(data);
+}
+Serial.flush();                    // Clear serial buffer
+}
+
+void write_data(byte data){    // Write data from xbee to serial
+Serial.print(char(data));
+}
