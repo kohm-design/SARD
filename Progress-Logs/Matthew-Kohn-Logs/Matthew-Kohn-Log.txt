@@ -17,6 +17,7 @@ Images: Index, Image Path, Lat, Lon, Timestamp - Subject to change
 
 
 Week 9/2/19-9/8/19:
+Challenges:
 
 New Progress:
 
