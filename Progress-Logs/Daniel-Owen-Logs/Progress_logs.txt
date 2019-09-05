@@ -1,0 +1,30 @@
+Week 1 (August 25th - September 1st)
+- Requested Table and Locker to so we can store and work on the project at the EDC.
+
+- Checked if things still worked from last semester:
+  - Recalibrated Sensors (GPS and Compass)
+  - Tested Communication with Pi
+  
+- Troubleshooted Drone motor issue. Issue where the Pixhawk gave an error "Failed to communicate with motors".
+  Fixed by recalibrating sensors
+- Motors and Pixhawk now ready to arm, but won't turn on/arm. Issue maybe with actual motors (HW). Waiting to get it in lab to test.
+
+- Worked on Integrating Pi and Pixhawk Communication. Currently working through issue trying to run Python code on the Pi to arm the Pixhawk.
+
+- Started Integration with the GUI subsystem. (What information we need to send and how).
+
+- Have an Integration Plan between the drone and the beacon (XBee talking to Raspberry Pi).
+
+
+
+Week 2 (September 2nd - September 8th) What I plan to do
+- Have been a bit busy this week with career fair
+
+- Continue Troubleshooting
+- Continue trying to get a table so we can work on campus easily
+- Make presentation for Monday
+
+- Hope to fix motor issue once we get a table and I can do further testing/ask Andrew
+- Finish working on Integrating Pi to Pixhawk code, maybe be issue because drone is not arming in general
+- Work on Integration with beacon subsystem (writing python code and setting up a test)
+- Work on Intrgration with the GUI subsystem (writing and reading python code, sending and recieve waypoint text file, etc.)
