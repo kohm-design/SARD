@@ -28,3 +28,17 @@ Week 2 (September 2nd - September 8th) What I plan to do
 - Finish working on Integrating Pi to Pixhawk code, maybe be issue because drone is not arming in general
 - Work on Integration with beacon subsystem (writing python code and setting up a test)
 - Work on Intrgration with the GUI subsystem (writing and reading python code, sending and recieve waypoint text file, etc.)
+
+Week 3 (September 9th - September 15th)
+6 hours
+- Found temporary place to store parts and drone on campus
+- Performed continuity test on motors and wire connections on the drone
+- Found issue with wire splitters that connect the ESCs to the battery
+- Resoldered connection to a PDB 
+- Performed continuity test as connections were soldered on
+
+Week 4 (September 16th - September 21st or will do)
+2 hours so far
+- Tested new drone connection set up, still doesn't work...
+- Talked with Andrew again and got some ideas to troubleshoot the issue
+- Got new ESCs and motors to help with troubleshooting
