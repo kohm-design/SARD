@@ -43,3 +43,5 @@ Week 4 (September 16th - September 21st or will do)
 - Tested new drone connection set up, still doesn't work...
 - Talked with Andrew again and got some ideas to troubleshoot the issue
 - Got new ESCs and motors to help with troubleshooting
+- Work on second presentation
+- continue troubleshooting and help with integrating beacon and PC App
