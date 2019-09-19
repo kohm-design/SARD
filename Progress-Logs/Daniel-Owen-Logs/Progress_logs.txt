@@ -16,7 +16,6 @@ Week 1 (August 25th - September 1st)
 - Have an Integration Plan between the drone and the beacon (XBee talking to Raspberry Pi).
 
 
-
 Week 2 (September 2nd - September 8th) What I plan to do
 - Have been a bit busy this week with career fair
 
@@ -29,6 +28,7 @@ Week 2 (September 2nd - September 8th) What I plan to do
 - Work on Integration with beacon subsystem (writing python code and setting up a test)
 - Work on Intrgration with the GUI subsystem (writing and reading python code, sending and recieve waypoint text file, etc.)
 
+
 Week 3 (September 9th - September 15th)
 6 hours
 - Found temporary place to store parts and drone on campus
@@ -36,6 +36,7 @@ Week 3 (September 9th - September 15th)
 - Found issue with wire splitters that connect the ESCs to the battery
 - Resoldered connection to a PDB 
 - Performed continuity test as connections were soldered on
+
 
 Week 4 (September 16th - September 21st or will do)
 2 hours so far
